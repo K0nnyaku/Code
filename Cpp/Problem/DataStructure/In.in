@@ -1,0 +1,8 @@
+Tree pushup(Tree L,Tree R){
+	Tree z;
+	z.sum=L.sum+R.sum;//和
+	z.l=max(L.l,L.sum+R.l);//2种情况
+	z.r=max(R.r,R.sum+L.r);//2种情况
+	z.ans=max(max(L.ans,R.ans),L.r+R.l);//3种情况
+	return z;
+}

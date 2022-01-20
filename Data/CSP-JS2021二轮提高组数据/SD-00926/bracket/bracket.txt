@@ -1,0 +1,8 @@
+@echo off
+:loop
+rand.exe >std.in
+a.exe <std.in> a.out
+b.exe <std.in> b.out
+fc a.out b.out
+if not errorlevel 1 goto loop
+pause

@@ -1,0 +1,1340 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.8.6)  8 AUG 2021 19:18
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**i:/Code/ZROI/Note.tex
+(i:/Code/ZROI/Note.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (i:/texlive/2021/texmf-dist/tex/latex/ctex/ctexart.cls (i:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
+File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (i:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count179
+\l__pdf_internal_box=\box47
+))
+Document Class: ctexart 2021/03/14 v2.5.6 Chinese adapter for class article (CTEX)
+(i:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (i:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (i:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (i:/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (i:/texlive/2021/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2021/03/14 v2.5.6 Document and package hooks (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2021/03/14 v2.5.6 Patching commands (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (i:/texlive/2021/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (i:/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+ (i:/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+\l__ctex_tmp_int=\count180
+\l__ctex_tmp_box=\box48
+\l__ctex_tmp_dim=\dimen138
+\g__ctex_section_depth_int=\count181
+\g__ctex_font_size_int=\count182
+ (i:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2021/03/14 v2.5.6 Option configuration file (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(i:/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (i:/texlive/2021/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2021/03/14 v2.5.6 (pdf)LaTeX adapter (CTEX)
+ (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (i:/texlive/2021/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (i:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (i:/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box49
+) (i:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)) (i:/texlive/2021/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count191
+\CJKpunct@cntb=\count192
+\CJKpunct@cntc=\count193
+\CJKpunct@cntd=\count194
+\CJKpunct@cnte=\count195
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (i:/texlive/2021/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (i:/texlive/2021/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2021/03/14 v2.5.6 Space info for CJKpunct (CTEX)
+)
+\ccwd=\dimen140
+\l__ctex_ccglue_skip=\skip49
+)
+\l__ctex_ziju_dim=\dimen141
+ (i:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count196
+\l__zhnum_byte_min_int=\count197
+\l__zhnum_byte_max_int=\count198
+ (i:/texlive/2021/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip50
+ (i:/texlive/2021/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2021/03/14 v2.5.6 Chinese scheme for article (CTEX)
+ (i:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2021/03/14 v2.5.6 Caption with encoding UTF-8 (CTEX)
+)) (i:/texlive/2021/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2021/03/14 v2.5.6 c5size option (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def
+File: ctex-fontset-fandol.def 2021/03/14 v2.5.6 Fandol fonts definition (CTEX)
+
+
+i:/texlive/2021/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.def:103: Critical Package ctex Error: CTeX fontset `fandol' is unavailable in current
+(ctex)                         mode.
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.103   }
+         
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+Reading the current file 'ctex-fontset-fandol' will stop.
+
+
+)) (i:/texlive/2021/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2021/03/14 v2.5.6 Configuration file (CTEX)
+) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (i:/texlive/2021/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (i:/Code/ZROI/Note.aux)
+\openout1 = `Note.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 4.
+
+i:/Code/ZROI/Note.tex:5: You can't use `macro parameter character #' in vertical mode.
+l.5 #
+     # 集合幂级数
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:5: You can't use `macro parameter character #' in vertical mode.
+l.5 ##
+       集合幂级数
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 5.
+(i:/texlive/2021/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2021/03/14 v2.5.6 Chinese font definition (CTEX)
+)
+i:/Code/ZROI/Note.tex:7: You can't use `macro parameter character #' in vertical mode.
+l.7 #
+     ### 定义
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:7: You can't use `macro parameter character #' in vertical mode.
+l.7 ##
+      ## 定义
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:7: You can't use `macro parameter character #' in vertical mode.
+l.7 ###
+       # 定义
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:7: You can't use `macro parameter character #' in vertical mode.
+l.7 ####
+         定义
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 9.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 9.
+Package CJKpunct Info: punctuation spaces for family 'rm' do not exist. Use family 'def' instead. on input line 9.
+
+Overfull \hbox (22.73195pt too wide) in paragraph at lines 9--10
+[]\C70/rm/m/n/10.53937/96 � \C70/rm/m/n/10.53937/54 ^^H \C70/rm/m/n/10.53937/5e B \C70/rm/m/n/10.53937/7e � \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/53 s \C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/5f b \C70/rm/m/n/10.53937/59 � $[] \OML/cmm/m/it/10.53937 a[]x[]$\C70/rm/m/n/10.53937/20 |\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/51 v \C70/rm/m/n/10.53937/4e - � \C70/rm/m/n/10.53937/8f � \C70/rm/m/n/10.53937/52 6 \C70/rm/m/n/10.53937/65 p $\OML/cmm/m/it/10.53937 i$\C70/rm/m/n/10.53937/20  \C70/rm/m/n/10.53937/88 h \C70/rm/m/n/10.53937/79 : \C70/rm/m/n/10.53937/4e ^^@ * $\OMS/cmsy/m/n/10.53937 f\OT1/cmr/m/n/10.53937 1\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; [] ; n\OMS/cmsy/m/n/10.53937 g$\C70/rm/m/n/10.53937/20 
+ []
+
+i:/Code/ZROI/Note.tex:11: You can't use `macro parameter character #' in vertical mode.
+l.11 #
+      ### 一些基本操作
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:11: You can't use `macro parameter character #' in vertical mode.
+l.11 ##
+       ## 一些基本操作
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:11: You can't use `macro parameter character #' in vertical mode.
+l.11 ###
+        # 一些基本操作
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:11: You can't use `macro parameter character #' in vertical mode.
+l.11 ####
+          一些基本操作
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:15: Extra \or.
+l.15 ...��维前缀和： $c_i=\sum\limits_j [j\or
+                                                   i =i] a_j$ 。
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:17: Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+i:/Code/ZROI/Note.tex:17: Extra }, or forgotten $.
+\endtabular ->\crcr \egroup 
+                            \egroup $\egroup 
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:17: Extra }, or forgotten $.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:17: Too many }'s.
+\endtabular ->\crcr \egroup \egroup $\egroup 
+                                             
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+i:/Code/ZROI/Note.tex:17: LaTeX Error: \begin{document} ended by \end{tabular}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+i:/Code/ZROI/Note.tex:17: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.17 ...��维后缀和： $c_i=\sum\limits_j[j\and
+                                                   i=i] a_j$ 。
+Things are pretty mixed up, but I think the worst is over.
+
+i:/Code/ZROI/Note.tex:17: Missing $ inserted.
+<inserted text> 
+                $
+l.17 ...缀和： $c_i=\sum\limits_j[j\and i=i] a_
+                                                  j$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:19: Extra \or.
+l.19 ...： $c_i=\sum\limits_j\sum\limits_k [j \or
+                                                   k=i] a_jb_k$​ 。
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:21: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.21 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=i]a_jb_k$ 。
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=i]a_jb_k$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:21: Missing } inserted.
+<inserted text> 
+                }
+l.21 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=i]a_jb_k$ 。
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 ..._i=\sum\limits_j\sum\limits_k[j\and k=i]a_
+                                                  jb_k$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:25: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.25 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=\emptyset,j\or k=i] a_j...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=\emptyset,j\or k=i] a_j...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:25: Missing } inserted.
+<inserted text> 
+                }
+l.25 ...�： $c_i=\sum\limits_j\sum\limits_k[j\and
+                                                   k=\emptyset,j\or k=i] a_j...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 ...um\limits_j\sum\limits_k[j\and k=\emptyset
+                                                  ,j\or k=i] a_jb_k$​ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:25: Extra \or.
+l.25 ...mits_j\sum\limits_k[j\and k=\emptyset,j\or
+                                                   k=i] a_jb_k$​ 。
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:26: Extra \or.
+l.26 ...,i_k} [|i_1|+|i_2|+\cdots+|i_k|=|i|,i_1\or
+                                                   i_2\or \cdots \or i_k=i]a...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:26: Extra \or.
+l.26 ...|i_1|+|i_2|+\cdots+|i_k|=|i|,i_1\or i_2\or
+                                                   \cdots \or i_k=i]a_{i_1}a...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:26: Extra \or.
+l.26 ...+\cdots+|i_k|=|i|,i_1\or i_2\or \cdots \or
+                                                   i_k=i]a_{i_1}a_{i_2}\cdot...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:51: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.51    		if(j&
+               (1<<i)) a[j]+=a[j^(1<<i)];
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+i:/Code/ZROI/Note.tex:51: Missing $ inserted.
+<inserted text> 
+                $
+l.51    		if(j&(1<<i)) a[j]+=a[j^
+                                 (1<<i)];
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+i:/Code/ZROI/Note.tex:54: Missing $ inserted.
+<inserted text> 
+                $
+l.54    这样我们就以 $O(2^
+                                nn)$ 的时间复杂度解决了高维前缀...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:65: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.65    		if(j&
+               (1<<i)) a[j^(1<<i)]+=a[j];
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+i:/Code/ZROI/Note.tex:65: Missing $ inserted.
+<inserted text> 
+                $
+l.65    		if(j&(1<<i)) a[j^
+                           (1<<i)]+=a[j];
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+i:/Code/ZROI/Note.tex:70: Missing $ inserted.
+<inserted text> 
+                $
+l.70 ...幂级数为 $C$ ，我们容易发现 $C_
+                                                  i=A_iB_i$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:79: Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.79    		if(j&
+               (1<<i)) a[j]-=a[j^(1<<i)];
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+i:/Code/ZROI/Note.tex:79: Missing $ inserted.
+<inserted text> 
+                $
+l.79    		if(j&(1<<i)) a[j]-=a[j^
+                                 (1<<i)];
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+i:/Code/ZROI/Note.tex:82: Missing $ inserted.
+<inserted text> 
+                $
+l.82 ...�求出了 $c$ 的所有系数，在 $O(2^
+                                                  nn)$ 的时间复杂度解...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:90: Missing } inserted.
+<inserted text> 
+                }
+l.90 ...a)_i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                                   j|} a_j$ 。
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:90: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.90 ...a)_i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                                   j|} a_j$ 。
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:90: Missing $ inserted.
+<inserted text> 
+                $
+l.90 ...a)_i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                                   j|} a_j$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:90: Missing } inserted.
+<inserted text> 
+                }
+l.90 ...a)_i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                                   j|} a_j$ 。
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:90: Missing $ inserted.
+<inserted text> 
+                $
+l.90 ...um\limits_{j=0}^{2^n-1}(-1)^{|i\and j|} a_
+                                                  j$ 。
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:96: Missing $ inserted.
+<inserted text> 
+                $
+l.96    FWT(c)_
+               i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and j|}c_j\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:96: Missing $ inserted.
+<inserted text> 
+                $
+l.96 ...c)_i=\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                                   j|}c_j\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:96: Missing $ inserted.
+<inserted text> 
+                $
+l.96 ...sum\limits_{j=0}^{2^n-1}(-1)^{|i\and j|}c_
+                                                  j\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:97: Missing { inserted.
+<inserted text> 
+                {
+l.97    =
+         \sum\limits_{j=0}^{2^n-1}(-1)^{|i\and j|}\sum\limits_{k=0}^{2^n-1}\...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97    =
+         \sum\limits_{j=0}^{2^n-1}(-1)^{|i\and j|}\sum\limits_{k=0}^{2^n-1}\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97    =\sum
+             \limits_{j=0}^{2^n-1}(-1)^{|i\and j|}\sum\limits_{k=0}^{2^n-1}\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:97: Missing } inserted.
+<inserted text> 
+                }
+l.97    =\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                               j|}\sum\limits_{k=0}^{2^n-1}\...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:97: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.97    =\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                               j|}\sum\limits_{k=0}^{2^n-1}\...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97    =\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                               j|}\sum\limits_{k=0}^{2^n-1}\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:97: Missing } inserted.
+<inserted text> 
+                }
+l.97    =\sum\limits_{j=0}^{2^n-1}(-1)^{|i\and
+                                               j|}\sum\limits_{k=0}^{2^n-1}\...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:97: Missing $ inserted.
+<inserted text> 
+                $
+l.97 ...m\limits_{j=0}^{2^n-1}(-1)^{|i\and j|}\sum
+                                                  \limits_{k=0}^{2^n-1}\sum\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:98: Missing { inserted.
+<inserted text> 
+                {
+l.98    =
+         \sum\limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+l.98    =
+         \sum\limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+l.98    =\sum
+             \limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:98: Missing } inserted.
+<inserted text> 
+                }
+l.98 ...limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l)\and
+                                                   i|}a_kb_l\\
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:98: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.98 ...limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l)\and
+                                                   i|}a_kb_l\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+l.98 ...limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l)\and
+                                                   i|}a_kb_l\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:98: Missing } inserted.
+<inserted text> 
+                }
+l.98 ...limits_{l=0}^{2^n-1}(-1)^{|(k\oplus l)\and
+                                                   i|}a_kb_l\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:98: Missing $ inserted.
+<inserted text> 
+                $
+l.98 ..._{l=0}^{2^n-1}(-1)^{|(k\oplus l)\and i|}a_
+                                                  kb_l\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing { inserted.
+<inserted text> 
+                {
+l.99    =
+         \sum\limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and i|}a...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99    =
+         \sum\limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and i|}a...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99    =\sum
+             \limits_{k=0}^{2^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and i|}a...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing } inserted.
+<inserted text> 
+                }
+l.99 ...^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and
+                                                   i|}a_k\cdot (-1)^{|l\and ...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:99: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.99 ...^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and
+                                                   i|}a_k\cdot (-1)^{|l\and ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99 ...^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and
+                                                   i|}a_k\cdot (-1)^{|l\and ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing } inserted.
+<inserted text> 
+                }
+l.99 ...^n-1}\sum\limits_{l=0}^{2^n-1}(-1)^{|k\and
+                                                   i|}a_k\cdot (-1)^{|l\and ...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99 ...sum\limits_{l=0}^{2^n-1}(-1)^{|k\and i|}a_
+                                                  k\cdot (-1)^{|l\and i|} b_l\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99 ...^n-1}(-1)^{|k\and i|}a_k\cdot (-1)^{|l\and
+                                                   i|} b_l\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:99: Missing $ inserted.
+<inserted text> 
+                $
+l.99 ...1)^{|k\and i|}a_k\cdot (-1)^{|l\and i|} b_
+                                                  l\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing { inserted.
+<inserted text> 
+                {
+l.100    =
+          (\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and i|}a_k)(\sum\limits_{l=0}^{...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100    =
+          (\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and i|}a_k)(\sum\limits_{l=0}^{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100    =(\sum
+               \limits_{k=0}^{2^n-1}(-1)^{|k\and i|}a_k)(\sum\limits_{l=0}^{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing } inserted.
+<inserted text> 
+                }
+l.100    =(\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and
+                                                 i|}a_k)(\sum\limits_{l=0}^{...
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:100: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.100    =(\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and
+                                                 i|}a_k)(\sum\limits_{l=0}^{...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100    =(\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and
+                                                 i|}a_k)(\sum\limits_{l=0}^{...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing } inserted.
+<inserted text> 
+                }
+l.100    =(\sum\limits_{k=0}^{2^n-1}(-1)^{|k\and
+                                                 i|}a_k)(\sum\limits_{l=0}^{...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100 ...um\limits_{k=0}^{2^n-1}(-1)^{|k\and i|}a_
+                                                  k)(\sum\limits_{l=0}^{2^n-...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100 ..._k)(\sum\limits_{l=0}^{2^n-1}(-1)^{|l\and
+                                                   i|}b_l)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:100: Missing $ inserted.
+<inserted text> 
+                $
+l.100 ...um\limits_{l=0}^{2^n-1}(-1)^{|l\and i|}b_
+                                                  l)\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:101: Missing { inserted.
+<inserted text> 
+                {
+l.101    =
+          FWT(a)_i\cdot FWT(b)_i
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+i:/Code/ZROI/Note.tex:101: Missing $ inserted.
+<inserted text> 
+                $
+l.101    =
+          FWT(a)_i\cdot FWT(b)_i
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:101: Missing $ inserted.
+<inserted text> 
+                $
+l.101    =FWT(a)_
+                 i\cdot FWT(b)_i
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+i:/Code/ZROI/Note.tex:105: Missing $ inserted.
+<inserted text> 
+                $
+l.105 ...� $i$​ 的集合 $S$​​ ，设 $x=a_
+                                                  S,y=a_{S+2^i}$​ ，则�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:124: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.124 ...的或卷积，那么会有一些 $[j\and
+                                                   k\neq \emptyset,j\or k=i]...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 ...的或卷积，那么会有一些 $[j\and
+                                                   k\neq \emptyset,j\or k=i]...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:124: Missing } inserted.
+<inserted text> 
+                }
+l.124 ...的或卷积，那么会有一些 $[j\and
+                                                   k\neq \emptyset,j\or k=i]...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:124: Missing $ inserted.
+<inserted text> 
+                $
+l.124 ...卷积，那么会有一些 $[j\and k\neq
+                                                   \emptyset,j\or k=i]$ 的 ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:124: Extra \or.
+l.124 ...会有一些 $[j\and k\neq \emptyset,j\or
+                                                   k=i]$ 的 $(j,k)$ 对贡�...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:126: Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.126    但注意到 $[j\and
+                              k=\emptyset,j\or k=i]$ 的条件等价于 $[|j...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+i:/Code/ZROI/Note.tex:126: Missing $ inserted.
+<inserted text> 
+                $
+l.126    但注意到 $[j\and
+                              k=\emptyset,j\or k=i]$ 的条件等价于 $[|j...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:126: Missing } inserted.
+<inserted text> 
+                }
+l.126    但注意到 $[j\and
+                              k=\emptyset,j\or k=i]$ 的条件等价于 $[|j...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:126: Missing $ inserted.
+<inserted text> 
+                $
+l.126    但注意到 $[j\and k=\emptyset
+                                         ,j\or k=i]$ 的条件等价于 $[|j...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+i:/Code/ZROI/Note.tex:126: Extra \or.
+l.126    但注意到 $[j\and k=\emptyset,j\or
+                                               k=i]$ 的条件等价于 $[|j...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:126: Extra \or.
+l.126 ...k=i]$ 的条件等价于 $[|j|+|k|=i,j\or
+                                                   k=i]$ ，所以我们可�...
+I'm ignoring this; it doesn't match any \if.
+
+i:/Code/ZROI/Note.tex:140: You can't use `macro parameter character #' in restricted horizontal mode.
+l.140 #
+       ### 一些例题
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:140: You can't use `macro parameter character #' in restricted horizontal mode.
+l.140 ##
+        ## 一些例题
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:140: You can't use `macro parameter character #' in restricted horizontal mode.
+l.140 ###
+         # 一些例题
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+i:/Code/ZROI/Note.tex:140: You can't use `macro parameter character #' in restricted horizontal mode.
+l.140 ####
+           一些例题
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+i:/Code/ZROI/Note.tex:156: LaTeX Error: \begin{tabular} on input line 126 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+i:/Code/ZROI/Note.tex:156: Improper \prevdepth.
+\newpage ...everypar {}\fi \par \ifdim \prevdepth 
+                                                  >\z@ \vskip -\ifdim \prevd...
+l.156 \end{document}
+                    
+You can refer to \spacefactor only in horizontal mode;
+you can refer to \prevdepth only in vertical mode; and
+neither of these is meaningful inside \write. So
+I'm forgetting what you said and using zero instead.
+
+i:/Code/ZROI/Note.tex:156: Missing } inserted.
+<inserted text> 
+                }
+l.156 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:156: Missing } inserted.
+<inserted text> 
+                }
+l.156 \end{document}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+i:/Code/ZROI/Note.tex:156: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.156 \end{document}
+                    
+I'm guessing that you meant to end an alignment here.
+
+i:/Code/ZROI/Note.tex:156: Missing { inserted.
+<inserted text> 
+                {
+l.156 \end{document}
+                    
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+(i:/Code/ZROI/Note.aux)
+i:/Code/ZROI/Note.tex:156: You can't use `\end' in internal vertical mode.
+\enddocument ...cument/end}\deadcycles \z@ \@@end 
+                                                  
+l.156 \end{document}
+                    
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+i:/Code/ZROI/Note.tex:156: LaTeX Error: \begin{tabular} on input line 126 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 \end{document}
+                    
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 5000 strings out of 478994
+ 98645 string characters out of 5862208
+ 401772 words of memory out of 5000000
+ 22299 multiletter control sequences out of 15000+600000
+ 419497 words of font info for 86 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,14n,90p,497b,258s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+i:/Code/ZROI/Note.tex:156:  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,34 @@
+Vultr注册链接：https://www.vultr.com/?ref=8753714
+
+VPS服务器系统选择 Debian9或以上
+
+---------------------------------------------------------
+
+V2Ray一键安装代码：
+apt-get update -y && apt-get install curl -y
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+开启自带 BBR 加速：
+echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
+sysctl -p
+lsmod | grep bbr
+---------------------------------------------------------
+
+
+Xshell 6 下载：https://kjfx.lanzoui.com/iTRmCp227md
+FinalShell下载：https://kjfx.lanzoui.com/iqm6Uosbzha
+
+科学软件下载：https://github.com/Kejifaxian/welcome/
+备用下载：https://bit.ly/38kRjHS
+
+域名注册：
+www.namesilo.com
+
+
+
+
+
+
+
+

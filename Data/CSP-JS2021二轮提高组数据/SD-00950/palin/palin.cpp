@@ -1,0 +1,138 @@
+#include<iostream>
+#include<cstdio>
+#include<cstring>
+using namespace std;
+int t,n,a[1000009],head1=1,tail1=1,flag,fl,tot,bg,ed,bmb,ans[1000009],cli[500009],book[500009],dy[100009];
+int mm;
+int main()
+{
+	freopen("palin.in","r",stdin);
+	freopen("palin.out","w",stdout);
+	cin>>t;
+	for(int k=1;k<=t;k++)
+	{
+		memset(a,0,sizeof(a));
+		memset(ans,0,sizeof(ans));
+		memset(cli,0,sizeof(cli));
+		memset(book,0,sizeof(book));
+		memset(dy,0,sizeof(dy));
+		flag=0;
+		tot=0;
+		bmb=1;
+		head1=1;
+		tail1=2*n;
+		cin>>n;
+		for(int i=1;i<=2*n;i++)
+			scanf("%d",&a[i]);
+		for(int i=1;i<=2*n;i++)
+		{
+			if(book[a[i]]==0)
+			{
+				book[a[i]]=1;
+				dy[a[i]]=i;
+			}
+			else
+			{
+				dy[i]=dy[a[i]];
+				dy[dy[a[i]]]=i;
+			}
+		}
+		for(int i=1;i<=n;i++)
+		{
+			if(dy[i]!=2*n+1-i)
+			{
+				fl=1;
+				break;
+			}
+		}
+		if(fl==0)
+		{
+			for(int i=1;i<n;i++)
+				cout<<"LR";
+			cout<<"LL";
+			cout<<endl;
+			break;
+		}
+		memset(book,0,sizeof(book));
+		ans[1]=1;
+		ans[2*n]=1;
+		bg=ed=dy[1];
+		cli[dy[1]]=a[1];		
+		book[dy[1]]=1;
+		book[1]=1;
+		head1=2;
+		tail1=2*n;
+		cout<<endl;
+		for(int i=2;i<=n;i++)
+		{
+			if(bmb==1)break;
+			if(dy[head1]==bg-1&&head1<bg)
+			{
+				book[head1]=1;
+				book[dy[head1]]=1;
+				bg--;
+				ans[++tot]=1;
+				ans[2*n+1-tot]=1;
+				head1++;
+			}
+			else
+			{
+				if(dy[head1]==ed+1&&head1<bg)
+				{
+					book[head1]=1;
+					book[dy[head1]]=1;
+					ed++;
+					ans[++tot]=1;
+					ans[2*n+1-tot]=2;
+					head1++;
+				}
+				else
+				{
+					if(dy[tail1]==bg-1&&tail1>ed)
+					{
+						book[tail1]=1;
+						book[dy[tail1]]=1;
+						bg--;
+						ans[++tot]=2;
+						ans[2*n+1-tot]=1;
+						tail1--;
+					}
+					else
+					{
+						if(dy[tail1]==ed+1&&tail1>ed)
+						{
+							book[tail1]=1;
+							book[dy[tail1]]=1;
+							ed++;
+							ans[++tot]=2;
+							ans[2*n+1-tot]=2;
+							tail1--;
+						}
+						else
+						{
+							bmb=1;
+						}
+					}
+				}
+			}
+			while(book[head1]==1)head1++;
+			while(book[tail1]==1)tail1--;
+		}
+		if(bmb==1)
+		{
+			cout<<"-1"<<endl;
+		}
+		else
+		{
+			for(int i=1;i<=2*n;i++)
+			{
+				if(ans[i]==1)
+					cout<<"L";
+				if(ans[i]==2)	
+					cout<<"R";
+			}
+			cout<<endl;
+		}		
+	}
+	return 0;
+}
